@@ -1,0 +1,36 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+a {
+    border: 1px solid grey;
+    padding: 2px;
+    background-color: lightgray;
+    margin-left: 2px;
+}
+
+th a {
+    border: none;
+    background-color: white
+}
+
+input {
+    margin: 2px;
+}
+
+.image {
+    width: auto;
+    margin: auto;
+}

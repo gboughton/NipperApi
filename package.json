@@ -1,0 +1,17 @@
+{
+  "name": "nipper",
+  "version": "1.0.0",
+  "description": "retrieves data on nipper statues in albany",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Grant Boughton",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "express": "^4.16.3",
+    "fuse.js": "^3.2.0",
+    "sort-json-array": "^0.1.7"
+  }
+}
